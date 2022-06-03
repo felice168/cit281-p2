@@ -15,3 +15,7 @@ Project elements:
 - Use git via VSCode
   - Create and use a .gitignore file
   - Diff split screen
+
+### Code
+
+Please click the **"View on Github"** buttom on the top of the page to see the project code and other works.
